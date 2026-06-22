@@ -13,7 +13,7 @@ Analytics domains.
 ## 🛠 Tech Stack
 **Frontend:** React.js · Next.js · TypeScript · D3.js · Tailwind · Socket.IO  
 **Backend:** FastAPI · Express.js · Node.js  
-**Tools:** Git · Netlify · GraphQL · JWT Auth · RBAC  
+**Tools:** Git · Netlify · GraphQL 
 
 ## 📌 Featured Projects
 - 🎵 [Spectranaut](https://spectronaut.netlify.app/) — Real-time audio 
