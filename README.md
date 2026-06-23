@@ -15,12 +15,13 @@ Analytics domains.
 
 
 ## 🛠 Tech Stack
-**Frontend:** React.js · Next.js · TypeScript · D3.js · Tailwind · Socket.IO  
-**Backend:** FastAPI · Express.js · Node.js  
-**Tools:** Git · Netlify · GraphQL 
+**Frontend:** React.js · Next.js · TypeScript · D3.js · TailwindCSS · MaterialUI · Socket.IO
+**Backend:** FastAPI · Express.js
+**Tools:** Git · Netlify · GraphQL
 
 
 ## 📌 Featured Projects
 - 🎵 [Spectranaut](https://spectronaut.netlify.app/) — Real-time audio 
   spectrogram with Whisper AI transcription
+- [🌏Geographical Visualization of Diseases](https://geographical-visualization.netlify.app/) - Representating disease-related data in Geographical Map (Specifically, Google Map)
 - 🔧 Personal Finance Intelligence Dashboard — (coming soon)
