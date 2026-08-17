@@ -23,5 +23,5 @@ Analytics domains.
 ## 📌 Featured Projects
 - 🎵 [Spectranaut](https://spectronaut.netlify.app/) — Real-time audio 
   spectrogram with Whisper AI transcription
-- 🌏 [Geographical Visualization of Diseases](https://geographical-visualization.netlify.app/) — Representating disease-related data in Geographical Map (Specifically, Google Map)
+- 🌏 [Geographical Visualization of Diseases](https://geographical-visualization.netlify.app/) — Representating disease-related data in Geographical Map
 - 🔧 Personal Finance Intelligence Dashboard — 🚀 <b>Version 1 Released!</b> [Checkout the API Documentation here.](https://personal-finance-service-dkw3.onrender.com/docs#)
