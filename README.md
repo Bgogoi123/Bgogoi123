@@ -16,8 +16,9 @@ Analytics domains.
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js · Next.js · TypeScript · D3.js · TailwindCSS · MaterialUI · Socket.IO
-- **Backend:** FastAPI · Express.js
-- **Tools:** Git · Netlify · GraphQL
+- **Backend:** Python · FastAPI · SQLAlchemy · Alembic · PostgreSQL
+- **AI:** LangChain · LangGraph · Hugging Face · Groq
+- **Tools:** Git · GitHub · BitBucket · Netlify · Vercel
 
 
 ## 📌 Featured Projects
